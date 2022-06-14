@@ -7,9 +7,8 @@
 
 #### About Polkadot
     Polkadot is an open source blockchain platform and cryptocurrency.
-    <br/>
-    It provides interconnectivity and interoperability between blockchains.
-    <br/>
+  
+    
 - [Blockchain](https://github.com/yjjnls/awesome-blockchain/)
 - [Cryptocurrency ](https://www.youtube.com/watch?v=j23HnORQXvs)
 - [What is Blockchain](https://www.youtube.com/watch?v=SSo_EIwHSd4)
