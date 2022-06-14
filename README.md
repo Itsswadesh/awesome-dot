@@ -22,7 +22,7 @@
    Kusama is a scalable network of specialized blockchains built using Substrate and nearly the same codebase as Polkadot.
 #### Polkadot official 
 - [Polkadot](https://www.polkadot.com/) - Official website.
-- [Polkadot foundation](https://polkadot.network/) - Official website of the Foundation.
+- [Polkadot Foundation](https://polkadot.network/) - Official website of the Foundation.
 - [Polkadot FAQ](https://polkadot.network/faq) - FAQ maintained by the Polkadot Foundation.
 
 #### Whitepaper
